@@ -2,6 +2,11 @@
 
 > webgl slide
 
+## How to Use
+
+- right key <kbd>→</kbd> to next slide
+- left key <kbd>←</kbd> to previous slide
+
 ## Install Modules
 
 ``` bash
